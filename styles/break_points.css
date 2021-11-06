@@ -1,0 +1,55 @@
+ /* fold devices (200px and up) */
+@media (min-width: 200px) { 
+
+}
+ /* xs devices (320px and up) */
+@media (min-width: 320px) { 
+    
+}
+/* sm devices (360px and up) */
+@media (min-width: 360px) { 
+    
+}
+
+/* Medium devices (411px and up) */
+@media (min-width: 411px) { 
+    
+}
+
+/* lg devices (tablets, 480px and up) */
+@media (min-width: 480px) { 
+
+}
+
+/* sm web devices (tablets, 576px and up) */
+@media (min-width: 576px) { 
+
+}
+
+/* Medium devices (tablets, 768px and up)200% */
+@media (min-width: 768px) { 
+
+}
+
+/* Large devices (desktops/laptops, 992px and up) 175% */
+@media (min-width: 992px) {  
+    
+}
+
+ /* X-Large devices (large desktops, 1200px and up)150% */
+@media (min-width: 1200px) {  
+   
+}
+
+/* XX-Large devices (xlarger desktops, 1500px and up)125% */
+@media (min-width: 1500px) {  
+   
+}
+/* XX-Large devices (xxlarger desktops, 1600px and up) 110%-1100 */
+@media (min-width: 1600px) {  
+   
+}
+/* XX-Large devices (xxlarger desktops, 1800px and up) 90% */
+@media (min-width: 1750px) {  
+   
+}
